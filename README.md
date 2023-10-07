@@ -1,15 +1,16 @@
-Installation Guide for Laravel Point of Sale (POS) System
+# Installation Guide for Laravel Point of Sale (POS) System
+
 Follow these steps to set up and run the Laravel POS System on your local development environment.
 
 Prerequisites
 Before you begin, ensure you have the following prerequisites installed:
 
-PHP (recommended version)
-Composer
-MySQL or another compatible database
-Web server (e.g., Apache, Nginx)
-Installation Steps
-Clone the Repository
+1. PHP (recommended version)
+2. Composer
+3. MySQL or another compatible database
+4. Web server (e.g., Apache, Nginx)
+5. Installation Steps
+6. Clone the Repository
 
 Clone the Laravel POS System repository to your local machine:
 
